@@ -1,4 +1,3 @@
-  <h1>Jogo da Forca em Python</h1>
   <p>Este é um jogo clássico da forca desenvolvido em Python. O jogo apresenta as seguintes funcionalidades:</p>
   <ul>
     <li><strong>Escolha Aleatória da Palavra:</strong> Seleciona aleatoriamente uma palavra de uma lista predefinida.</li>
