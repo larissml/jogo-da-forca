@@ -1,8 +1,3 @@
-<html>
-<head>
-  <title>Jogo da Forca em Python</title>
-</head>
-<body>
   <h1>Jogo da Forca em Python</h1>
   <p>Este é um jogo clássico da forca desenvolvido em Python. O jogo apresenta as seguintes funcionalidades:</p>
   <ul>
